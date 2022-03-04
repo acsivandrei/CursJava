@@ -7,7 +7,7 @@ public class DoWhileExample {
 		String[] array = {"one", "two", "three", "four"};
 		int j=0;
 		
-		boolean flag = false;
+		boolean flag = true;
 		
 		while(flag==true) {
 						

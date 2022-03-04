@@ -4,7 +4,7 @@ public class Rectangle {
 	
 	private int length;
 	private int width;
-	
+	//EXEMPLU CONSTRUCTOR
 	//constructor--optional pentru noi-->pt ca java il seteaza automat daca nu il punem noi
 	public Rectangle() {}
 		

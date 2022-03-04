@@ -7,8 +7,8 @@ public class Angajat {
 	private String email;
 	
 	//click dreapta source generate getters and setters bifat ambele name si email
-	//metode ca sa ti protejezi variabilele in a fii schimbate direct
-	//daca e publica poate fii schimbata si o pui private (encapsulate)
+	//metode ca sa ti protejezi variabilele in a fi schimbate direct
+	//daca e publica poate fi schimbata si o pui private (encapsulate)
 	
 	public String getName() {
 		return name;

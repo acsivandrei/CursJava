@@ -14,6 +14,7 @@ public class TesterRectangle {
 		
 		System.out.println(obj2.calculateArea());
 
+		
 	}
 
 }
